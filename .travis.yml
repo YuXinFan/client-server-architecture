@@ -6,6 +6,6 @@ os:
   - linux
 script:  # don't test watch_dog by default
   - mkdir build && cd build && cmake .. && make -j 4 all
-  - ./utest_cs133_hw4 --gtest_filter="-*.test_watch_dog"
+  - ./utest_cs133_hw4 #--gtest_filter="-*.test_watch_dog"
 after_success:
   - ./systest_cs133_hw4
