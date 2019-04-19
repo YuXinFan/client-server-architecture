@@ -2,7 +2,7 @@
 
 Name | Stu. ID | Travis Stat.
 -----|---------|-------------
-Fan Yuxin | 57881161 | TRAVIS STAT.
+Fan Yuxin | 57881161 | [![Build Status](https://travis-ci.com/sht-cs133/hw4-c-s-architecture-YuXinFan.svg?token=appyqywAiysphxXppp9y&branch=master)](https://travis-ci.com/sht-cs133/hw4-c-s-architecture-YuXinFan)
 
 ## Notices
 
